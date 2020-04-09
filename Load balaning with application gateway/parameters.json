@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_vm_lal_website1_name": {
+            "value": null
+        },
+        "virtualMachines_vm_lal_website2_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_lal_website1547_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_lal_website2671_name": {
+            "value": null
+        },
+        "publicIPAddresses_applicationgateway_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_lal_website1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_lal_website2_ip_name": {
+            "value": null
+        },
+        "applicationGateways_ag_lalit_failover_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_lal_website1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_lal_website2_nsg_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_lalit_application_failover_name": {
+            "value": null
+        }
+    }
+}
